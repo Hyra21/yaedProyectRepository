@@ -1,0 +1,14 @@
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\bin\Debug\netcoreapp3.1\EjIF2.exe
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\bin\Debug\netcoreapp3.1\EjIF2.deps.json
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\bin\Debug\netcoreapp3.1\EjIF2.runtimeconfig.json
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\bin\Debug\netcoreapp3.1\EjIF2.runtimeconfig.dev.json
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\bin\Debug\netcoreapp3.1\EjIF2.dll
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\bin\Debug\netcoreapp3.1\EjIF2.pdb
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\obj\Debug\netcoreapp3.1\EjIF2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\obj\Debug\netcoreapp3.1\EjIF2.AssemblyInfoInputs.cache
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\obj\Debug\netcoreapp3.1\EjIF2.AssemblyInfo.cs
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\obj\Debug\netcoreapp3.1\EjIF2.csproj.CoreCompileInputs.cache
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\obj\Debug\netcoreapp3.1\EjIF2.dll
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\obj\Debug\netcoreapp3.1\EjIF2.pdb
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\obj\Debug\netcoreapp3.1\EjIF2.genruntimeconfig.cache
+C:\Users\MAQD12\source\repos\EjIF2\EjIF2\obj\Debug\netcoreapp3.1\EjIF2.csproj.AssemblyReference.cache
